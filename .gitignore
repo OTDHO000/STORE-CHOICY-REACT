@@ -1,0 +1,25 @@
+.DS_Store
+.env
+.flaskenv
+*.pyc
+*.pyo
+env/
+env*
+venv/
+venv*
+build/
+.cache/
+.pytest_cache/
+.idea/
+docs/_build/
+.vscode
+node_module/
+node_module*
+public/
+
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*,cover
