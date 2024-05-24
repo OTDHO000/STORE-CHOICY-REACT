@@ -1,0 +1,100 @@
+.features71-layout226 {
+  width: 100%;
+  height: 477px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.features71-max-width {
+  align-self: flex-start;
+}
+.features71-content {
+  width: 251px;
+  height: 478px;
+}
+.features71-title1 {
+  width: 299px;
+  text-align: center;
+  font-family: "Roboto";
+}
+.features71-container {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://play.teleporthq.io/static/svg/default-img.svg');
+  background-position: center;
+}
+.features71-image {
+  width: 200px;
+  object-fit: cover;
+}
+.features71-description1 {
+  text-align: center;
+}
+.features71-content1 {
+  width: 249px;
+  height: 476px;
+}
+.features71-title2 {
+  text-align: center;
+  font-family: "Roboto";
+}
+.features71-container1 {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://play.teleporthq.io/static/svg/default-img.svg');
+  background-position: center;
+}
+.features71-image1 {
+  width: 200px;
+  object-fit: cover;
+}
+.features71-description2 {
+  text-align: center;
+}
+.features71-content2 {
+  height: 478px;
+}
+.features71-title3 {
+  text-align: center;
+  font-family: "Roboto";
+}
+.features71-container2 {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://play.teleporthq.io/static/svg/default-img.svg');
+  background-position: center;
+}
+.features71-image2 {
+  width: 200px;
+  object-fit: cover;
+}
+.features71-description3 {
+  text-align: center;
+}
+@media(max-width: 991px) {
+  .features71-content {
+    align-items: center;
+  }
+  .features71-content1 {
+    align-items: center;
+  }
+  .features71-content2 {
+    align-items: center;
+  }
+}

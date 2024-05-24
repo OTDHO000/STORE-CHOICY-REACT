@@ -1,0 +1,12 @@
+.app-component-container {
+  display: flex;
+  position: relative;
+}
+.app-component-text {
+  color: var(--dl-color-scheme-black);
+  font-size: 18px;
+  align-self: flex-start;
+  text-align: left;
+  line-height: 1.44;
+  margin-bottom: var(--dl-space-space-twounits);
+}
